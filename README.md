@@ -11,7 +11,7 @@ I transform raw data into meaningful business insights. Passionate about buildin
 - 🌱 Learning: **SQL, Power BI, Python for Data Analysis**
 - 👨‍💻 All projects available at [My GitHub](https://github.com/pulagampallikishorekumar755-stack)
 - 💼 Looking for: **Data Analyst / MIS Analyst / Business Analyst Roles**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kishore-kumar)
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/kishore-kumar-995884394)
 
 ---
 
