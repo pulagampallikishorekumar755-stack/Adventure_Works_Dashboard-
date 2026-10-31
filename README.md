@@ -1,3 +1,4 @@
+<img width="524" height="314" alt="Adventure-Works-Dashboard" src="https://github.com/user-attachments/assets/8a34b02d-e6c4-496c-a05b-ce1cd3e036d1" />
 # Adventure Works Sales Dashboard
 
 ### 📊 Project Overview
